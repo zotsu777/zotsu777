@@ -5,12 +5,12 @@
 
 ## 👨‍💻 zotsu777
 
-**`Developer · Terminal Dweller · Automation Tinkerer`**
+**`Full Stack Developer · Terminal Dweller · Automation Tinkerer`**
 
 <p>
-  Building things from the terminal on <b>Windows</b> — automating the boring stuff one script at a time. <br>
-  Working with <b>Node.js</b>, <b>Git</b>, and the <b>GitHub CLI</b>, learning something new every day. <br>
-  If something runs twice, it becomes a script from now on.
+  Building <b>full stack</b> web apps end to end — <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b> and <b>React</b> on the front, <br>
+  <b>PHP</b>, <b>Python</b> and <b>Node.js</b> on the back, with <b>MySQL</b> &amp; <b>MongoDB</b> underneath. <br>
+  Windows-based, terminal-first, and automating the boring stuff one script at a time.
 </p>
 
 </div>
@@ -21,11 +21,12 @@
 
 | | |
 |:--|:--|
-| 🖥️ **Terminal First** | PowerShell, Git, and the GitHub CLI are home base |
-| 🟩 **Node.js** | Building and running things with Node.js & npm |
+| 🎨 **Frontend** | HTML, CSS, JavaScript, React — clean UIs that don't hurt |
+| ⚙️ **Backend** | PHP, Python, Node.js — APIs and server-side logic |
+| 🗄️ **Databases** | MySQL, MongoDB, SQL — schema design to queries |
+| 🧩 **Full Stack** | From database to browser, building complete products end to end |
 | 🔁 **Automation** | If something runs twice, it runs as a script from now on |
 | 🔒 **Security Minded** | Minimal permissions, secure auth, no secrets in repos |
-| 📚 **Always Learning** | Exploring new tools, workflows, and AI-assisted development |
 
 ---
 
@@ -33,11 +34,25 @@
 
 <div align="center">
 
-### 💻 Languages & Runtimes
+### 🎨 Frontend
 
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend & Runtimes
+
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🐚 Shell & OS
 
